@@ -12,7 +12,7 @@ My next big goal is to become a well-rounded full-stack software engineer.
 Family and my passions are the driving forces that push me to grow every day.
 Outside of work, I enjoy playing football, taking photos, and traveling.
 <hr>
-  <br>
+<br /><br />
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 <br /><br />
