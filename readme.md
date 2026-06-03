@@ -7,9 +7,7 @@
 <br /><br />
 
 ## About me
-I am Oussama Bouchikhi from Algeria, I graduated with a Bachelor's degree in computer science. I am a Backend developer and a Cloud enthusiast.  
-My prefered stack is Javascript and Typescript (Nodejs/Nestjs).
-I always want to learn new things.
+I am Kieu Van Quoc, a programmer from Da Nang City, Vietnam, who is currently expanding my skills to become a full-stack developer.
 
 <br /><br />
 
